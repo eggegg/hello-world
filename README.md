@@ -1,2 +1,3 @@
 # hello-world
-Hello world project
+hello everybody.
+i code php for food!
